@@ -1,0 +1,2 @@
+# discordrpc
+dc rpc
